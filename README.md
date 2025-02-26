@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://raw.githubusercontent.com/deepakmaurya7/deepakmaurya7/2828cff271a7ffbfa38f88812f39a4cc0de75724/Banner.png" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/deepakmaurya7/deepakmaurya7/95eb97550a5805f57bc63187c7195be279183ed6/Banner.png" /> </p>
 <h1 align="center">Hi 👋, I'm Deepak Maurya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
